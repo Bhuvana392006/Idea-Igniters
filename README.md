@@ -5,6 +5,6 @@ Problem Solution:
 To include AI indulged CHATBOT
 Video path:
 "C:\Users\umama\OneDrive\Pictures\Chinnu\vahan bazar.mp4"
-PPT:
-https://docs.google.com/presentation/d/1sxsuVYoz2ZbmixBkpp1lgdWaqbU6O9Cl/edit?usp=drive_link&ouid=118419051161699997971&rtpof=true&sd=true
-
+PPT:"C:\Users\umama\OneDrive\Desktop\Presentation1.pptx"
+wordDocument:
+"C:\Users\umama\OneDrive\Desktop\WORD DOCUMENT.docx"
